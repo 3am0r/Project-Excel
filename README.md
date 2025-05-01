@@ -1,6 +1,6 @@
 # 📊 Order Performance Analysis Dashboard in Excel
 
-![Demo](assets/demo.gif) <!-- Replace with the path to your actual GIF -->
+![Demo](final_project.png)
 
 ## 📁 Project Overview
 
