@@ -51,15 +51,6 @@ This project leverages **Microsoft Excel** to deliver deep insights into sales a
 
 ---
 
-## 📎 Files Included
-
-- `OrderPerformance.xlsx` – Main Excel dashboard with pivot tables and visuals.
-- `assets/demo.gif` – Animated walkthrough of the dashboard.
-- `assets/visualization-sample.png` – Sample image of dashboard visuals.
-- `assets/pivot-sample.png` – Sample image of pivot tables.
-
----
-
 ## 🧠 Summary
 
 This project provided a detailed and visually compelling **Sales Order Performance Analysis**, covering:
@@ -73,12 +64,6 @@ This project provided a detailed and visually compelling **Sales Order Performan
 
 ---
 
-## 🔗 Connect with Me
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- 📁 [GitHub Portfolio](https://github.com/yourusername)
-
----
 
 ## ⭐ Star this Repo
 
